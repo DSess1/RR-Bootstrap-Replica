@@ -10,7 +10,7 @@
     "react": "^18.3.0-canary-2f8f77602-20240229",
     "react-bootstrap": "^2.10.1",
     "react-dom": "^18.3.0-canary-2f8f77602-20240229",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^3.0.1",
     "web-vitals": "^1.1.2"
   },
   "scripts": {

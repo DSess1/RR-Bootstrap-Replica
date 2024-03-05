@@ -38,6 +38,6 @@ function BackgroundSection() {
   );
 }
 
-export default BackgroundSection
+export default BackgroundSection;
 
 
